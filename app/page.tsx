@@ -201,10 +201,10 @@ export default function StartPage() {
         >
           <div className="flex items-center justify-center gap-6 sm:gap-10 mb-4">
             <div className="text-center">
-              <div className="text-4xl sm:text-5xl font-bold">3</div>
+              <div className="text-4xl sm:text-5xl font-bold">18</div>
               <div className="text-sm sm:text-base">
-                <div>MEI</div>
-                <div>2025</div>
+                <div>APRIL</div>
+                <div>2026</div>
               </div>
             </div>
 
